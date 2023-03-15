@@ -9,7 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </br>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,figma,firebase,git,ai,md,ps,stackoverflow,xd)](https://skillicons.dev)
+<img height="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS" />
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,git,md,stackoverflow,ai,ps,figma,xd)](https://skillicons.dev)
 
 
 </br>
